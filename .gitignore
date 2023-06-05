@@ -1,0 +1,11 @@
+node_modules
+out
+.next
+
+# Firebase
+.firebaserc
+.firebase
+firebase.json
+firestore.indexes.json
+firestore.rules
+
