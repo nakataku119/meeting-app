@@ -63,13 +63,6 @@ export default function LoginForm() {
         onChange={(event) => setPassword(event.target.value)}
         required
       />
-      <Typography
-        variant="body2"
-        component="div"
-        sx={{ fontSize: "15px", color: "red" }}
-      >
-        ※@genit.jpのアドレスを使用。
-      </Typography>
       <Button
         type="submit"
         variant="outlined"
