@@ -5,6 +5,7 @@
 
 # Firebaseの準備
 - Firebaseプロジェクトを作成。APIKeyなどをメモ。
+- 作成したプロジェクトでWebアプリを追加する。
 - CloudFirestoreのデータベース作成。
 - Authenticationにて、メール/パスワードのプロバイダ追加。必要に応じてユーザーを追加する。
 - FirebaseCLIをインストール。
