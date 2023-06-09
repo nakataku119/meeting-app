@@ -4,8 +4,8 @@
 1on1やチームミーティングを円滑にできるようサポートします。
 
 # Firebaseの準備
-- Firebaseプロジェクトを作成。APIKeyなどをメモ。
-- 作成したプロジェクトでWebアプリを追加する。
+- Firebaseプロジェクトを作成。
+- 作成したプロジェクトでWebアプリを追加する。APIKeyなどをメモ。
 - CloudFirestoreのデータベース作成。
 - Authenticationにて、メール/パスワードのプロバイダ追加。必要に応じてユーザーを追加する。
 - FirebaseCLIをインストール。
